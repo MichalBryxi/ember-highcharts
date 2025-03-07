@@ -48,8 +48,8 @@ importers:
         specifier: '>= 3.28.0'
         version: 5.10.1(@glimmer/component@1.1.2(@babel/core@7.24.9))(@glint/template@1.4.0)(rsvp@4.8.5)(webpack@5.93.0)
       highcharts:
-        specifier: '>= 12.0.0'
-        version: 12.1.2
+        specifier: '>= 11.0.0'
+        version: 11.4.8
     devDependencies:
       '@babel/plugin-transform-typescript':
         specifier: ^7.24.8
@@ -428,8 +428,8 @@ importers:
         specifier: ^8.1.1
         version: 8.1.1(eslint@8.57.0)
       highcharts:
-        specifier: ^12.0.0
-        version: 12.1.2
+        specifier: ^11.0.0
+        version: 11.4.8
       loader.js:
         specifier: ^4.7.0
         version: 4.7.0
@@ -4658,8 +4658,8 @@ packages:
   heimdalljs@0.2.6:
     resolution: {integrity: sha512-o9bd30+5vLBvBtzCPwwGqpry2+n0Hi6H1+qwt6y+0kwRHGGF8TFIhJPmnuM0xO97zaKrDZMwO/V56fAnn8m/tA==}
 
-  highcharts@12.1.2:
-    resolution: {integrity: sha512-paZ72q1um0zZT1sS+O/3JfXVSOLPmZ0zlo8SgRc0rEplPFPQUPc4VpkgQS8IUTueeOBgIWwVpAWyC9tBYbQ0kg==}
+  highcharts@11.4.8:
+    resolution: {integrity: sha512-5Tke9LuzZszC4osaFisxLIcw7xgNGz4Sy3Jc9pRMV+ydm6sYqsPYdU8ELOgpzGNrbrRNDRBtveoR5xS3SzneEA==}
 
   highlight.js@10.7.3:
     resolution: {integrity: sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==}
@@ -13436,7 +13436,7 @@ snapshots:
     dependencies:
       rsvp: 3.2.1
 
-  highcharts@12.1.2: {}
+  highcharts@11.4.8: {}
 
   highlight.js@10.7.3: {}
 
